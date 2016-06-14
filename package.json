@@ -1,5 +1,5 @@
 {
-  "name": "detectors_schema",
+  "name": "calvad_detectors_schema",
   "version": "1.0.0",
   "description": "Sqitch code for CalVAD detectors schema",
   "main": "index.js",
